@@ -1,2 +1,5 @@
+Array:
+  https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+  
 Tree:
   https://leetcode.com/problems/balanced-binary-tree
